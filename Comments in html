@@ -1,0 +1,14 @@
+<!Doctype html>
+<html>
+<head>
+    <title>Comments in HTML</title> 
+</head>
+<body>  
+    <!-- This is a comment in HTML. Comments are not displayed in the browser and are used to leave notes for developers. -->
+    <h1>Understanding Comments in HTML</h1>
+    <p>Comments can be very useful for explaining your code or leaving reminders for yourself or other developers.</p>
+    
+    <!-- You can also use comments to temporarily disable code without deleting it. -->
+    <!-- <p>This paragraph is commented out and will not be displayed.</p> -->
+</body>
+</html> 
