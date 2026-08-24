@@ -1,7 +1,7 @@
 <!Doctype html>
 <html>
 <head>
-    <title>Comments in HTML</title> 
+    <title>Comments</title> 
 </head>
 <body>  
     <!-- This is a comment in HTML. Comments are not displayed in the browser and are used to leave notes for developers. -->
